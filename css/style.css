@@ -15,6 +15,14 @@ body {
     scroll-behavior: smooth;
 }
 
+nav.navbar {
+    font-size: 30px;
+
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
 
 header.masthead  {
     position: relative;
@@ -57,6 +65,8 @@ header.masthead h1 {
     height: 100%;
 }
 
+
+
 #footer{
     display: flex;
     flex-flow: row wrap;
@@ -71,11 +81,10 @@ header.masthead h1 {
   }
 
   footer h3 {
-    color: #aa8976;
-    font-size: 20px;
+    font-size: 30px;
   }
   
   footer h5{
     font-size: 17px;
-  
+
   }
